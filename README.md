@@ -1,1 +1,1 @@
-Some R scripts for the exercises in Introduction to Statistical Learning
+Some R scripts for the exercises in [Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
